@@ -1,0 +1,5 @@
+pandas
+numpy
+SQLAlchemy
+Flask-SQLAlchemy
+flask-wtf
